@@ -1,0 +1,49 @@
+.conten{
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
+}
+
+#bt2{
+    margin-left: 15px;
+}
+
+#bt3{
+    margin-left: 15px;
+}
+
+#bt4{
+    margin-left: 15px;
+}
+
+#cerrar{
+    margin-left: 1400px;
+    margin-bottom: 25px;
+    background-color: #8e2742;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.component{
+    text-align: center;
+}
+
+.lista{
+    display: flex;
+    list-style-type: none;
+    margin: 10px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+

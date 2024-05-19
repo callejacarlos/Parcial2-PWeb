@@ -1,0 +1,20 @@
+.catalogo {
+    padding: 20px;
+}
+
+.items-container {
+    display: flex;
+    justify-content: space-around; /* Esto distribuye los elementos uniformemente */
+    flex-wrap: wrap; /* Esto permite que los elementos se ajusten a la línea siguiente si no caben en una fila */
+}
+
+.items-container ul {
+    list-style: none;
+    text-align: center;
+    margin: 10px;
+}
+
+.items-container img {
+    display: block;
+    margin: 0 auto 10px;
+}
